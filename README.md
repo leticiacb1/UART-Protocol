@@ -1,4 +1,8 @@
-##  💻️ UART-Protocol
+<br/>
+<div align="center">
+  <h2>💻️ UART-Protocol</h2>
+</div>
+</br>
 
 Projeto que possibilita a transmissão de um arquivo por meio da comunicacao serial do Arduino.
 
@@ -12,7 +16,7 @@ A montagem deve ser realizada como a imagem abaixo, sendo necessário para isso:
 
 ---
 
-### Protocolo UART
+### Protocolo
 
 ---
 
