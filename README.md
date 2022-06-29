@@ -10,10 +10,6 @@ A montagem deve ser realizada como a imagem abaixo, sendo necessário para isso:
 
 <br/>
 
-<div align="center">
-  <img alt="montagem" src="Assets/montagem.png" /> 
-</div>
-
 ---
 
 ### Protocolo UART
@@ -76,5 +72,23 @@ A estrutura do pacotes que serão enviados, é a demonstrada a seguir:
 
 #### 📍️ Montagem
 
+<div align="center">
+  <img alt="montagem Arduinos" src="Assets/montagemArduinos.png" width="550px"/> 
+  <img alt="montagem" src="Assets/montagem.png" width="550px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>Pino <b>Tx</b> do Arduino Client ligado ao pino <b>Rx</b> do Arduino Server</p>
+  <br/>
+  <p>Pino <b>Rx</b> do Arduino Client ligado ao pino <b>Tx</b> do Arduino Server</p>
+  <br/>
+  <P>Pino <b>Reset</b> ligado ao <b>GND</b> em ambos os Arduinos</p>
+  <br/>
+  <p>Pino <b>GND</b> do Arduino Server ligado ao pino <b>GND</b> do Arduino Client</p>
+ </div>
+
+<br/>
 
 ####  ⚡️ Rodagem do código
