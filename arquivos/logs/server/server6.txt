@@ -1,0 +1,630 @@
+
+----------- 2022-04-27 16:25:23.108633 - [RECEBE] HANDSHAKE -----------
+Tipo: 1
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:23.277654 - [ENVIA] HANDSHAKE -----------
+Tipo: 2
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:25.570375 - [ENVIA] EM ESPERA -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 1
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:27.753113 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 1
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:27.753113 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 1
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:28.455026 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 2
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:28.455026 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 2
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:28.902672 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 3
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:28.902672 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 3
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:29.519820 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 4
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:29.520014 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 4
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:30.174696 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 5
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:30.174696 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 5
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:30.792114 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 6
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:31.562210 - [ENVIA] ERROR -----------
+Tipo: 6
+Tamanho em bytes: 0
+°N pacote: 6
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:31.962883 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 6
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:31.962883 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 6
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:32.600652 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 7
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:32.600652 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 7
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:33.127117 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 8
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:33.127117 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 8
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:33.596927 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 9
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:33.596927 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 9
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:34.340069 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 10
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:34.340069 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 10
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:34.915226 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 11
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:34.915226 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 11
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:35.548721 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 12
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:35.548721 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 12
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:36.043061 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 13
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:36.043061 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 13
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:36.734452 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 14
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:36.734452 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 14
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:37.219924 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 15
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:37.219924 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 15
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:37.900485 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 16
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:37.900485 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 16
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:38.624319 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 17
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:38.624319 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 17
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:39.376513 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 18
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:39.376626 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 18
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:39.901600 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 19
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:39.901600 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 19
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:40.611033 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 20
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:40.611033 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 20
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:41.143566 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 21
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:41.143566 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 21
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:41.782715 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 22
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:41.782715 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 22
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:42.261675 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 23
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:42.261675 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 23
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:42.762952 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 24
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:42.762952 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 24
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:43.316770 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 25
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:43.316770 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 25
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:44.049514 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 26
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:44.049514 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 26
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:44.789155 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 27
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:44.789155 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 27
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:45.446099 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 28
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:45.446099 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 28
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:46.064507 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 29
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:46.064507 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 29
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:46.756371 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 30
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:46.756371 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 30
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:47.310767 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 31
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:47.310767 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 31
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:47.796255 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 32
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:47.796255 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 32
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:48.312996 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 33
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:48.312996 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 33
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:48.930317 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 34
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:48.930317 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 34
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:49.549196 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 35
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:49.549196 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 35
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:50.102140 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 36
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:50.102140 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 36
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:50.818790 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 37
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:50.818790 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 37
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:51.320215 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 38
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:51.320215 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 38
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:51.821433 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 39
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:51.821433 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 39
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:52.469936 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 40
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:52.469936 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 40
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:53.171703 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 41
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:53.171703 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 41
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:53.710629 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 42
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:53.710629 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 42
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:54.347528 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 43
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:54.347528 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 43
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:54.991813 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 44
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:54.991813 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 44
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:55.477707 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 45
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:55.477707 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 45
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:56.316869 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 46
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:56.316869 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 46
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:56.795832 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 47
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:56.795832 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 47
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:57.382081 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 48
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:57.382081 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 48
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:58.036724 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 49
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:58.036724 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 49
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:58.368788 - [RECEBE] DADO -----------
+Tipo: 3
+Tamanho em bytes: 0
+°N pacote: 50
+Total pacotes: 50
+
+----------- 2022-04-27 16:25:58.368788 - [ENVIA] OK -----------
+Tipo: 4
+Tamanho em bytes: 0
+°N pacote: 50
+Total pacotes: 50

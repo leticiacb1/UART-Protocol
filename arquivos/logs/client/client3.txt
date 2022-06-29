@@ -1,0 +1,24 @@
+
+----------- 2022-03-25 14:15:38.290784 - [ENVIA] HANDSHAKE -----------
+Tipo: 1
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
+
+----------- 2022-03-25 14:15:48.500674 - [ENVIA] HANDSHAKE -----------
+Tipo: 1
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
+
+----------- 2022-03-25 14:15:58.724232 - [ENVIA] HANDSHAKE -----------
+Tipo: 1
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
+
+----------- 2022-03-25 14:16:04.102569 - [ENVIA] TIME OUT -----------
+Tipo: 5
+Tamanho em bytes: 0
+°N pacote: -
+Total pacotes: 50
