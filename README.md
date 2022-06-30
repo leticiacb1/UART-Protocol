@@ -2,7 +2,14 @@
 <div align="center">
   <h2>💻️ UART-Protocol</h2>
 </div>
+
 </br>
+
+<div align="center">
+  <img alt="gif_transmission" src="Assets/UARTProtocol.gif" height="450px"/>
+</div>
+
+<br />
 
 Projeto que possibilita a transmissão de um arquivo por meio da comunicacao serial do Arduino.
 
