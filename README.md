@@ -83,7 +83,7 @@ A estrutura do pacotes que serão enviados, é a demonstrada a seguir:
 
 <br/>
 
-<div align="center">
+<div>
   <p>Pino <b>Tx</b> do Arduino Client ligado ao pino <b>Rx</b> do Arduino Server</p>
   <br/>
   <p>Pino <b>Rx</b> do Arduino Client ligado ao pino <b>Tx</b> do Arduino Server</p>
@@ -96,3 +96,30 @@ A estrutura do pacotes que serão enviados, é a demonstrada a seguir:
 <br/>
 
 ####  ⚡️ Rodagem do código
+
+Baixe as depêndencias necessárias para o funcionamento do código, copiando e colando no terminal o comando abaixo.
+
+```bash
+
+pip install -r requirements.txt
+
+```
+Conecte os arduinos aos computadores e por meio de jumpers ligue também os dois arduinos entre si.
+Escolha um computador para ser o Server da aplicação, e rode em seu terminal o comando a seguir:
+
+```bash
+
+python server.py
+
+```
+
+O outro computador será o Client da aplicação. Dessa forma, digite em seu terminal o comando:
+
+```bash
+
+python client.py
+
+```
+No prompt de comando surgirar um display de opções da ação que se deseja realizar, selecione uma das opções, espere o fim da transmissão e verifique se no computador Server o arquivo chegou em sua total integridade. 
+
+Tente enviar outros arquivos, teste todas as possibilidades de ação do display e divirta-se !  
